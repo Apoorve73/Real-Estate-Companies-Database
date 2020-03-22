@@ -5,8 +5,8 @@
 Issues are very valuable to this project.
 * Ideas are a valuable source of contributions others can make
 * Problems show where this project is lacking
-* With a question you show where contributors can improve the user experience
-Thanks for creating them.
+* With a question you show where contributors can improve the user experience.
+*Thanks for creating them.*
 
 ## Pull Requests
 
